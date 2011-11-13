@@ -1,0 +1,263 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CPPFLAGS	backup/makefile	/^CPPFLAGS = -O3 -Wno-deprecated$/;"	m
+CPPFLAGS	makefile	/^CPPFLAGS = -O3 -Wno-deprecated$/;"	m
+DIRICHLET_HYPERPARAMETER	NaiveBayesGibbs.hpp	/^    const int DIRICHLET_HYPERPARAMETER;$/;"	m	class:NaiveBayesGibbs	access:private
+DIRICHLET_HYPERPARAMETER	backup/NaiveBayesGibbs.hpp	/^    const int DIRICHLET_HYPERPARAMETER;$/;"	m	class:NaiveBayesGibbs	access:private
+HashMap	NaiveBayesGibbs.hpp	/^    typedef __gnu_cxx::hash_map<std::string, std::vector<double>, hash_str, eqstr> HashMap;$/;"	t	class:NaiveBayesGibbs	access:private
+HashMap	NaiveBayesModel.hpp	/^    typedef __gnu_cxx::hash_map<std::string, std::vector<double>, hash_str, eqstr> HashMap;$/;"	t	class:NaiveBayesModel	access:private
+HashMap	backup/NaiveBayesGibbs.hpp	/^    typedef __gnu_cxx::hash_map<std::string, std::vector<double>, hash_str, eqstr> HashMap;$/;"	t	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs	NaiveBayesGibbs.cpp	/^NaiveBayesGibbs::NaiveBayesGibbs(std::string trainDir, std::string testDir, int parameter):$/;"	f	class:NaiveBayesGibbs	signature:(std::string trainDir, std::string testDir, int parameter)
+NaiveBayesGibbs	NaiveBayesGibbs.hpp	/^    NaiveBayesGibbs(std::string trainDir, std::string testDir, int param=70);$/;"	p	class:NaiveBayesGibbs	access:public	signature:(std::string trainDir, std::string testDir, int param=70)
+NaiveBayesGibbs	NaiveBayesGibbs.hpp	/^class NaiveBayesGibbs$/;"	c
+NaiveBayesGibbs	backup/NaiveBayesGibbs.cpp	/^NaiveBayesGibbs::NaiveBayesGibbs(std::string trainDir, std::string testDir, int parameter):$/;"	f	class:NaiveBayesGibbs	signature:(std::string trainDir, std::string testDir, int parameter)
+NaiveBayesGibbs	backup/NaiveBayesGibbs.hpp	/^    NaiveBayesGibbs(std::string trainDir, std::string testDir, int param=70);$/;"	p	class:NaiveBayesGibbs	access:public	signature:(std::string trainDir, std::string testDir, int param=70)
+NaiveBayesGibbs	backup/NaiveBayesGibbs.hpp	/^class NaiveBayesGibbs$/;"	c
+NaiveBayesGibbs::DIRICHLET_HYPERPARAMETER	NaiveBayesGibbs.hpp	/^    const int DIRICHLET_HYPERPARAMETER;$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::DIRICHLET_HYPERPARAMETER	backup/NaiveBayesGibbs.hpp	/^    const int DIRICHLET_HYPERPARAMETER;$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::HashMap	NaiveBayesGibbs.hpp	/^    typedef __gnu_cxx::hash_map<std::string, std::vector<double>, hash_str, eqstr> HashMap;$/;"	t	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::HashMap	backup/NaiveBayesGibbs.hpp	/^    typedef __gnu_cxx::hash_map<std::string, std::vector<double>, hash_str, eqstr> HashMap;$/;"	t	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::NaiveBayesGibbs	NaiveBayesGibbs.cpp	/^NaiveBayesGibbs::NaiveBayesGibbs(std::string trainDir, std::string testDir, int parameter):$/;"	f	class:NaiveBayesGibbs	signature:(std::string trainDir, std::string testDir, int parameter)
+NaiveBayesGibbs::NaiveBayesGibbs	NaiveBayesGibbs.hpp	/^    NaiveBayesGibbs(std::string trainDir, std::string testDir, int param=70);$/;"	p	class:NaiveBayesGibbs	access:public	signature:(std::string trainDir, std::string testDir, int param=70)
+NaiveBayesGibbs::NaiveBayesGibbs	backup/NaiveBayesGibbs.cpp	/^NaiveBayesGibbs::NaiveBayesGibbs(std::string trainDir, std::string testDir, int parameter):$/;"	f	class:NaiveBayesGibbs	signature:(std::string trainDir, std::string testDir, int parameter)
+NaiveBayesGibbs::NaiveBayesGibbs	backup/NaiveBayesGibbs.hpp	/^    NaiveBayesGibbs(std::string trainDir, std::string testDir, int param=70);$/;"	p	class:NaiveBayesGibbs	access:public	signature:(std::string trainDir, std::string testDir, int param=70)
+NaiveBayesGibbs::categoryFiles_	NaiveBayesGibbs.hpp	/^    std::vector<int> categoryFiles_;\/\/每个类别下的文档数$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::categoryFiles_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> categoryFiles_;\/\/每个类别下的文档数$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::check	NaiveBayesGibbs.cpp	/^double NaiveBayesGibbs::check()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::check	NaiveBayesGibbs.hpp	/^    double check();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::check	backup/NaiveBayesGibbs.cpp	/^double NaiveBayesGibbs::check()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::check	backup/NaiveBayesGibbs.hpp	/^    double check();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::checkMLE	NaiveBayesGibbs.cpp	/^double NaiveBayesGibbs::checkMLE()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::checkMLE	NaiveBayesGibbs.hpp	/^    double checkMLE();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::checkMLE	backup/NaiveBayesGibbs.cpp	/^double NaiveBayesGibbs::checkMLE()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::checkMLE	backup/NaiveBayesGibbs.hpp	/^    double checkMLE();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::initLabels	NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::initLabels()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::initLabels	NaiveBayesGibbs.hpp	/^    void initLabels();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::initLabels	backup/NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::initLabels()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::initLabels	backup/NaiveBayesGibbs.hpp	/^    void initLabels();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::initTheta	backup/NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::initTheta()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::initTheta	backup/NaiveBayesGibbs.hpp	/^    void initTheta();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::labelHistory_	NaiveBayesGibbs.hpp	/^    std::vector<int> labelHistory_;\/\/保存训练过程中标签的结果$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::labelHistory_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> labelHistory_;\/\/保存训练过程中标签的结果$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::labelNames	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::string> labelNames;$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::labelNames_	NaiveBayesGibbs.hpp	/^    std::vector<std::string> labelNames_;$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::labelVec_	NaiveBayesGibbs.hpp	/^    std::vector<int> labelVec_;\/\/保存训练过程中标签的结果$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::labelVec_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> labelVec_;\/\/保存训练过程中标签的结果$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::logLabelNorm	NaiveBayesGibbs.hpp	/^    double logLabelNorm;$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::logLabelNorm	backup/NaiveBayesGibbs.hpp	/^    double logLabelNorm;$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::numCategories_	NaiveBayesGibbs.hpp	/^    int numCategories_;\/\/共多少个类别$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::numCategories_	backup/NaiveBayesGibbs.hpp	/^    int numCategories_;\/\/共多少个类别$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::predict	NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::predict(int fid)$/;"	f	class:NaiveBayesGibbs	signature:(int fid)
+NaiveBayesGibbs::predict	NaiveBayesGibbs.hpp	/^    int predict(int);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(int)
+NaiveBayesGibbs::predict	backup/NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::predict(int fid)$/;"	f	class:NaiveBayesGibbs	signature:(int fid)
+NaiveBayesGibbs::predict	backup/NaiveBayesGibbs.hpp	/^    int predict(int);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(int)
+NaiveBayesGibbs::predictMLE	NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::predictMLE(int fid)$/;"	f	class:NaiveBayesGibbs	signature:(int fid)
+NaiveBayesGibbs::predictMLE	NaiveBayesGibbs.hpp	/^    int predictMLE(int);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(int)
+NaiveBayesGibbs::predictMLE	backup/NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::predictMLE(int fid)$/;"	f	class:NaiveBayesGibbs	signature:(int fid)
+NaiveBayesGibbs::predictMLE	backup/NaiveBayesGibbs.hpp	/^    int predictMLE(int);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(int)
+NaiveBayesGibbs::stasticsFiles	NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::stasticsFiles(const std::string& dir, bool isTrainDir)$/;"	f	class:NaiveBayesGibbs	signature:(const std::string& dir, bool isTrainDir)
+NaiveBayesGibbs::stasticsFiles	NaiveBayesGibbs.hpp	/^    int stasticsFiles(const std::string&, bool);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(const std::string&, bool)
+NaiveBayesGibbs::stasticsFiles	backup/NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::stasticsFiles(const std::string& dir, bool isTrainDir)$/;"	f	class:NaiveBayesGibbs	signature:(const std::string& dir, bool isTrainDir)
+NaiveBayesGibbs::stasticsFiles	backup/NaiveBayesGibbs.hpp	/^    int stasticsFiles(const std::string&, bool);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(const std::string&, bool)
+NaiveBayesGibbs::stasticsWords	NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::stasticsWords()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::stasticsWords	NaiveBayesGibbs.hpp	/^    void stasticsWords();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::supervise_	backup/NaiveBayesGibbs.hpp	/^    const bool supervise_;$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::testAns_	NaiveBayesGibbs.hpp	/^    std::vector<int> testAns_;\/\/保存文档标签$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::testAns_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> testAns_;\/\/保存文档标签$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::testFiles_	NaiveBayesGibbs.hpp	/^    std::vector<std::string> testFiles_;\/\/所有文件$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::testFiles_	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::string> testFiles_;\/\/所有文件$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::testWords_	NaiveBayesGibbs.hpp	/^    std::vector<std::vector<std::string> > testWords_;\/\/第一个维度是文档，第二个维度是文档中的词$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::testWords_	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::vector<std::string> > testWords_;\/\/第一个维度是文档，第二个维度是文档中的词$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::thetaCur_	NaiveBayesGibbs.hpp	/^    HashMap thetaCur_;\/\/词服从的分布$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::thetaCur_	backup/NaiveBayesGibbs.hpp	/^    HashMap thetaCur_;\/\/词服从的分布$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::thetaHistory_	NaiveBayesGibbs.hpp	/^    HashMap thetaHistory_;\/\/历史$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::thetaHistory_	backup/NaiveBayesGibbs.hpp	/^    HashMap thetaHistory_;\/\/历史$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::train	NaiveBayesGibbs.cpp	/^NaiveBayesModel NaiveBayesGibbs::train(int numIter)$/;"	f	class:NaiveBayesGibbs	signature:(int numIter)
+NaiveBayesGibbs::train	NaiveBayesGibbs.hpp	/^    NaiveBayesModel train(int iter=1000);$/;"	p	class:NaiveBayesGibbs	access:public	signature:(int iter=1000)
+NaiveBayesGibbs::train	backup/NaiveBayesGibbs.cpp	/^NaiveBayesModel NaiveBayesGibbs::train(int numIter)$/;"	f	class:NaiveBayesGibbs	signature:(int numIter)
+NaiveBayesGibbs::train	backup/NaiveBayesGibbs.hpp	/^    NaiveBayesModel train(int);$/;"	p	class:NaiveBayesGibbs	access:public	signature:(int)
+NaiveBayesGibbs::trainAns_	NaiveBayesGibbs.hpp	/^    std::vector<int> trainAns_;\/\/保存文档标签$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::trainAns_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> trainAns_;\/\/保存文档标签$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::trainFiles_	NaiveBayesGibbs.hpp	/^    std::vector<std::string> trainFiles_;\/\/所有文件$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::trainFiles_	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::string> trainFiles_;\/\/所有文件$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::trainWords_	NaiveBayesGibbs.hpp	/^    std::vector<std::vector<std::string> > trainWords_;\/\/第一个维度是文档，第二个维度是文档中的词$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::trainWords_	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::vector<std::string> > trainWords_;\/\/第一个维度是文档，第二个维度是文档中的词$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::updateLabels	backup/NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::updateLabels()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::updateLabels	backup/NaiveBayesGibbs.hpp	/^    void updateLabels();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::updateTheta	NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::updateTheta()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::updateTheta	NaiveBayesGibbs.hpp	/^    void updateTheta();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::updateTheta	backup/NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::updateTheta()$/;"	f	class:NaiveBayesGibbs	signature:()
+NaiveBayesGibbs::updateTheta	backup/NaiveBayesGibbs.hpp	/^    void updateTheta();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+NaiveBayesGibbs::wordCount_	NaiveBayesGibbs.hpp	/^    __gnu_cxx::hash_map<std::string, std::vector<int>, hash_str, eqstr> wordCount_;\/\/字-》每个类别下当前字的个数$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesGibbs::wordCount_	backup/NaiveBayesGibbs.hpp	/^    __gnu_cxx::hash_map<std::string, std::vector<int>, hash_str, eqstr> wordCount_;\/\/字-》每个类别下当前字的个数$/;"	m	class:NaiveBayesGibbs	access:private
+NaiveBayesModel	NaiveBayesModel.cpp	/^NaiveBayesModel::NaiveBayesModel(int n, std::vector<std::string>& names, HashMap& theta)$/;"	f	class:NaiveBayesModel	signature:(int n, std::vector<std::string>& names, HashMap& theta)
+NaiveBayesModel	NaiveBayesModel.hpp	/^    NaiveBayesModel(int, std::vector<std::string>&, HashMap&);$/;"	p	class:NaiveBayesModel	access:public	signature:(int, std::vector<std::string>&, HashMap&)
+NaiveBayesModel	NaiveBayesModel.hpp	/^class NaiveBayesModel$/;"	c
+NaiveBayesModel	backup/NaiveBayesModel.hpp	/^class NaiveBayesModel$/;"	c
+NaiveBayesModel::HashMap	NaiveBayesModel.hpp	/^    typedef __gnu_cxx::hash_map<std::string, std::vector<double>, hash_str, eqstr> HashMap;$/;"	t	class:NaiveBayesModel	access:private
+NaiveBayesModel::NaiveBayesModel	NaiveBayesModel.cpp	/^NaiveBayesModel::NaiveBayesModel(int n, std::vector<std::string>& names, HashMap& theta)$/;"	f	class:NaiveBayesModel	signature:(int n, std::vector<std::string>& names, HashMap& theta)
+NaiveBayesModel::NaiveBayesModel	NaiveBayesModel.hpp	/^    NaiveBayesModel(int, std::vector<std::string>&, HashMap&);$/;"	p	class:NaiveBayesModel	access:public	signature:(int, std::vector<std::string>&, HashMap&)
+NaiveBayesModel::labelName_	NaiveBayesModel.hpp	/^    std::vector<std::string> labelName_;$/;"	m	class:NaiveBayesModel	access:private
+NaiveBayesModel::load	NaiveBayesModel.cpp	/^NaiveBayesModel NaiveBayesModel::load(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+NaiveBayesModel::load	NaiveBayesModel.hpp	/^    static NaiveBayesModel load(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+NaiveBayesModel::load	backup/NaiveBayesModel.cpp	/^NaiveBayesModel NaiveBayesModel::load(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+NaiveBayesModel::load	backup/NaiveBayesModel.hpp	/^        static NaiveBayesModel load(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+NaiveBayesModel::numCategories_	NaiveBayesModel.hpp	/^    int numCategories_;$/;"	m	class:NaiveBayesModel	access:private
+NaiveBayesModel::predict	NaiveBayesModel.cpp	/^std::string NaiveBayesModel::predict(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+NaiveBayesModel::predict	NaiveBayesModel.cpp	/^std::string NaiveBayesModel::predict(std::vector<std::string>& words)$/;"	f	class:NaiveBayesModel	signature:(std::vector<std::string>& words)
+NaiveBayesModel::predict	NaiveBayesModel.hpp	/^    std::string predict(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+NaiveBayesModel::predict	NaiveBayesModel.hpp	/^    std::string predict(std::vector<std::string>&);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::vector<std::string>&)
+NaiveBayesModel::predict	backup/NaiveBayesModel.hpp	/^        std::string predict(std::vector<std::string>&);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::vector<std::string>&)
+NaiveBayesModel::save	NaiveBayesModel.cpp	/^void NaiveBayesModel::save(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+NaiveBayesModel::save	NaiveBayesModel.hpp	/^    void save(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+NaiveBayesModel::save	backup/NaiveBayesModel.cpp	/^void NaiveBayesModel::save(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+NaiveBayesModel::save	backup/NaiveBayesModel.hpp	/^        void save(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+NaiveBayesModel::theta_	NaiveBayesModel.hpp	/^    HashMap theta_;$/;"	m	class:NaiveBayesModel	access:private
+Utils	backup/utils.hpp	/^class Utils$/;"	c
+Utils	utils.hpp	/^class Utils$/;"	c
+Utils::getTime	backup/utils.cpp	/^std::string Utils::getTime()$/;"	f	class:Utils	signature:()
+Utils::getTime	backup/utils.hpp	/^        static std::string getTime();$/;"	p	class:Utils	access:public	signature:()
+Utils::getTime	utils.cpp	/^std::string Utils::getTime()$/;"	f	class:Utils	signature:()
+Utils::getTime	utils.hpp	/^        static std::string getTime();$/;"	p	class:Utils	access:public	signature:()
+Utils::m_strCurrentTime	backup/utils.cpp	/^std::string Utils::m_strCurrentTime;$/;"	m	class:Utils	file:
+Utils::m_strCurrentTime	backup/utils.hpp	/^        static std::string m_strCurrentTime; $/;"	m	class:Utils	access:private
+Utils::m_strCurrentTime	utils.cpp	/^std::string Utils::m_strCurrentTime;$/;"	m	class:Utils	file:
+Utils::m_strCurrentTime	utils.hpp	/^        static std::string m_strCurrentTime; $/;"	m	class:Utils	access:private
+Utils::m_tDate	backup/utils.cpp	/^time_t Utils::m_tDate;$/;"	m	class:Utils	file:
+Utils::m_tDate	backup/utils.hpp	/^        static time_t m_tDate; $/;"	m	class:Utils	access:private
+Utils::m_tDate	utils.cpp	/^time_t Utils::m_tDate;$/;"	m	class:Utils	file:
+Utils::m_tDate	utils.hpp	/^        static time_t m_tDate; $/;"	m	class:Utils	access:private
+_NAIVEBAYESGIBBS_H	NaiveBayesGibbs.hpp	2;"	d
+_NAIVEBAYESGIBBS_H	backup/NaiveBayesGibbs.hpp	2;"	d
+_NAIVEBAYESMODEL_H	NaiveBayesModel.hpp	2;"	d
+_NAIVEBAYESMODEL_H	backup/NaiveBayesModel.hpp	2;"	d
+_UTILS_H	backup/utils.hpp	2;"	d
+_UTILS_H	utils.hpp	2;"	d
+categoryFiles_	NaiveBayesGibbs.hpp	/^    std::vector<int> categoryFiles_;\/\/每个类别下的文档数$/;"	m	class:NaiveBayesGibbs	access:private
+categoryFiles_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> categoryFiles_;\/\/每个类别下的文档数$/;"	m	class:NaiveBayesGibbs	access:private
+check	NaiveBayesGibbs.cpp	/^double NaiveBayesGibbs::check()$/;"	f	class:NaiveBayesGibbs	signature:()
+check	NaiveBayesGibbs.hpp	/^    double check();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+check	backup/NaiveBayesGibbs.cpp	/^double NaiveBayesGibbs::check()$/;"	f	class:NaiveBayesGibbs	signature:()
+check	backup/NaiveBayesGibbs.hpp	/^    double check();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+checkMLE	NaiveBayesGibbs.cpp	/^double NaiveBayesGibbs::checkMLE()$/;"	f	class:NaiveBayesGibbs	signature:()
+checkMLE	NaiveBayesGibbs.hpp	/^    double checkMLE();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+checkMLE	backup/NaiveBayesGibbs.cpp	/^double NaiveBayesGibbs::checkMLE()$/;"	f	class:NaiveBayesGibbs	signature:()
+checkMLE	backup/NaiveBayesGibbs.hpp	/^    double checkMLE();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+eqstr	backup/utils.hpp	/^struct eqstr$/;"	s
+eqstr	utils.hpp	/^struct eqstr$/;"	s
+eqstr::operator ()	backup/utils.hpp	/^    bool operator()(const std::string s1, const std::string s2)const$/;"	f	struct:eqstr	access:public	signature:(const std::string s1, const std::string s2) const
+eqstr::operator ()	utils.hpp	/^    bool operator()(const std::string s1, const std::string s2)const$/;"	f	struct:eqstr	access:public	signature:(const std::string s1, const std::string s2) const
+getTime	backup/utils.cpp	/^std::string Utils::getTime()$/;"	f	class:Utils	signature:()
+getTime	backup/utils.hpp	/^        static std::string getTime();$/;"	p	class:Utils	access:public	signature:()
+getTime	utils.cpp	/^std::string Utils::getTime()$/;"	f	class:Utils	signature:()
+getTime	utils.hpp	/^        static std::string getTime();$/;"	p	class:Utils	access:public	signature:()
+getfiles	backup/utils.cpp	/^bool getfiles(std::string dir, std::vector<std::string>& container)$/;"	f	signature:(std::string dir, std::vector<std::string>& container)
+getfiles	backup/utils.hpp	/^bool getfiles(const std::string, std::vector<std::string>&);$/;"	p	signature:(const std::string, std::vector<std::string>&)
+getfiles	utils.cpp	/^bool getfiles(std::string dir, std::vector<std::string>& container)$/;"	f	signature:(std::string dir, std::vector<std::string>& container)
+getfiles	utils.hpp	/^bool getfiles(const std::string, std::vector<std::string>&);$/;"	p	signature:(const std::string, std::vector<std::string>&)
+hash_str	backup/utils.hpp	/^struct hash_str$/;"	s
+hash_str	utils.hpp	/^struct hash_str$/;"	s
+hash_str::operator ()	backup/utils.hpp	/^    size_t operator()(const std::string s)const$/;"	f	struct:hash_str	access:public	signature:(const std::string s) const
+hash_str::operator ()	utils.hpp	/^    size_t operator()(const std::string s)const$/;"	f	struct:hash_str	access:public	signature:(const std::string s) const
+initLabels	NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::initLabels()$/;"	f	class:NaiveBayesGibbs	signature:()
+initLabels	NaiveBayesGibbs.hpp	/^    void initLabels();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+initLabels	backup/NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::initLabels()$/;"	f	class:NaiveBayesGibbs	signature:()
+initLabels	backup/NaiveBayesGibbs.hpp	/^    void initLabels();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+initTheta	backup/NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::initTheta()$/;"	f	class:NaiveBayesGibbs	signature:()
+initTheta	backup/NaiveBayesGibbs.hpp	/^    void initTheta();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+labelHistory_	NaiveBayesGibbs.hpp	/^    std::vector<int> labelHistory_;\/\/保存训练过程中标签的结果$/;"	m	class:NaiveBayesGibbs	access:private
+labelHistory_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> labelHistory_;\/\/保存训练过程中标签的结果$/;"	m	class:NaiveBayesGibbs	access:private
+labelName_	NaiveBayesModel.hpp	/^    std::vector<std::string> labelName_;$/;"	m	class:NaiveBayesModel	access:private
+labelNames	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::string> labelNames;$/;"	m	class:NaiveBayesGibbs	access:private
+labelNames_	NaiveBayesGibbs.hpp	/^    std::vector<std::string> labelNames_;$/;"	m	class:NaiveBayesGibbs	access:private
+labelVec_	NaiveBayesGibbs.hpp	/^    std::vector<int> labelVec_;\/\/保存训练过程中标签的结果$/;"	m	class:NaiveBayesGibbs	access:private
+labelVec_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> labelVec_;\/\/保存训练过程中标签的结果$/;"	m	class:NaiveBayesGibbs	access:private
+load	NaiveBayesModel.cpp	/^NaiveBayesModel NaiveBayesModel::load(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+load	NaiveBayesModel.hpp	/^    static NaiveBayesModel load(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+load	backup/NaiveBayesModel.cpp	/^NaiveBayesModel NaiveBayesModel::load(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+load	backup/NaiveBayesModel.hpp	/^        static NaiveBayesModel load(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+logLabelNorm	NaiveBayesGibbs.hpp	/^    double logLabelNorm;$/;"	m	class:NaiveBayesGibbs	access:private
+logLabelNorm	backup/NaiveBayesGibbs.hpp	/^    double logLabelNorm;$/;"	m	class:NaiveBayesGibbs	access:private
+logsumexp	NaiveBayesGibbs.cpp	/^inline double logsumexp(double x, double y, bool flg) {$/;"	f	signature:(double x, double y, bool flg)
+logsumexp	backup/NaiveBayesGibbs.cpp	/^inline double logsumexp(double x, double y, bool flg) {$/;"	f	signature:(double x, double y, bool flg)
+m_strCurrentTime	backup/utils.cpp	/^std::string Utils::m_strCurrentTime;$/;"	m	class:Utils	file:
+m_strCurrentTime	backup/utils.hpp	/^        static std::string m_strCurrentTime; $/;"	m	class:Utils	access:private
+m_strCurrentTime	utils.cpp	/^std::string Utils::m_strCurrentTime;$/;"	m	class:Utils	file:
+m_strCurrentTime	utils.hpp	/^        static std::string m_strCurrentTime; $/;"	m	class:Utils	access:private
+m_tDate	backup/utils.cpp	/^time_t Utils::m_tDate;$/;"	m	class:Utils	file:
+m_tDate	backup/utils.hpp	/^        static time_t m_tDate; $/;"	m	class:Utils	access:private
+m_tDate	utils.cpp	/^time_t Utils::m_tDate;$/;"	m	class:Utils	file:
+m_tDate	utils.hpp	/^        static time_t m_tDate; $/;"	m	class:Utils	access:private
+main	backup/main.cpp	/^int main(int args, char** argv)$/;"	f	signature:(int args, char** argv)
+main	backup/test.cpp	/^int main(int args, char** argv)$/;"	f	signature:(int args, char** argv)
+main	main.cpp	/^int main(int args, char** argv)$/;"	f	signature:(int args, char** argv)
+main	test.cpp	/^int main(int args, char** argv)$/;"	f	signature:(int args, char** argv)
+numCategories_	NaiveBayesGibbs.hpp	/^    int numCategories_;\/\/共多少个类别$/;"	m	class:NaiveBayesGibbs	access:private
+numCategories_	NaiveBayesModel.hpp	/^    int numCategories_;$/;"	m	class:NaiveBayesModel	access:private
+numCategories_	backup/NaiveBayesGibbs.hpp	/^    int numCategories_;\/\/共多少个类别$/;"	m	class:NaiveBayesGibbs	access:private
+operator ()	backup/utils.hpp	/^    bool operator()(const std::string s1, const std::string s2)const$/;"	f	struct:eqstr	access:public	signature:(const std::string s1, const std::string s2) const
+operator ()	backup/utils.hpp	/^    size_t operator()(const std::string s)const$/;"	f	struct:hash_str	access:public	signature:(const std::string s) const
+operator ()	utils.hpp	/^    bool operator()(const std::string s1, const std::string s2)const$/;"	f	struct:eqstr	access:public	signature:(const std::string s1, const std::string s2) const
+operator ()	utils.hpp	/^    size_t operator()(const std::string s)const$/;"	f	struct:hash_str	access:public	signature:(const std::string s) const
+predict	NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::predict(int fid)$/;"	f	class:NaiveBayesGibbs	signature:(int fid)
+predict	NaiveBayesGibbs.hpp	/^    int predict(int);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(int)
+predict	NaiveBayesModel.cpp	/^std::string NaiveBayesModel::predict(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+predict	NaiveBayesModel.cpp	/^std::string NaiveBayesModel::predict(std::vector<std::string>& words)$/;"	f	class:NaiveBayesModel	signature:(std::vector<std::string>& words)
+predict	NaiveBayesModel.hpp	/^    std::string predict(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+predict	NaiveBayesModel.hpp	/^    std::string predict(std::vector<std::string>&);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::vector<std::string>&)
+predict	backup/NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::predict(int fid)$/;"	f	class:NaiveBayesGibbs	signature:(int fid)
+predict	backup/NaiveBayesGibbs.hpp	/^    int predict(int);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(int)
+predict	backup/NaiveBayesModel.cpp	/^std::string predict(std::vector<std::string> & v)$/;"	f	signature:(std::vector<std::string> & v)
+predict	backup/NaiveBayesModel.hpp	/^        std::string predict(std::vector<std::string>&);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::vector<std::string>&)
+predictMLE	NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::predictMLE(int fid)$/;"	f	class:NaiveBayesGibbs	signature:(int fid)
+predictMLE	NaiveBayesGibbs.hpp	/^    int predictMLE(int);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(int)
+predictMLE	backup/NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::predictMLE(int fid)$/;"	f	class:NaiveBayesGibbs	signature:(int fid)
+predictMLE	backup/NaiveBayesGibbs.hpp	/^    int predictMLE(int);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(int)
+save	NaiveBayesModel.cpp	/^void NaiveBayesModel::save(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+save	NaiveBayesModel.hpp	/^    void save(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+save	backup/NaiveBayesModel.cpp	/^void NaiveBayesModel::save(std::string file)$/;"	f	class:NaiveBayesModel	signature:(std::string file)
+save	backup/NaiveBayesModel.hpp	/^        void save(std::string);$/;"	p	class:NaiveBayesModel	access:public	signature:(std::string)
+split	backup/utils.cpp	/^std::shared_ptr<std::vector<std::string> > split(std::string s, std::string regex)$/;"	f	signature:(std::string s, std::string regex)
+split	backup/utils.hpp	/^std::shared_ptr<std::vector<std::string> > split(std::string s, std::string regex);$/;"	p	signature:(std::string s, std::string regex)
+split	utils.cpp	/^std::shared_ptr<std::vector<std::string> > split(std::string s, std::string regex)$/;"	f	signature:(std::string s, std::string regex)
+split	utils.hpp	/^std::shared_ptr<std::vector<std::string> > split(std::string s, std::string regex);$/;"	p	signature:(std::string s, std::string regex)
+stasticsFiles	NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::stasticsFiles(const std::string& dir, bool isTrainDir)$/;"	f	class:NaiveBayesGibbs	signature:(const std::string& dir, bool isTrainDir)
+stasticsFiles	NaiveBayesGibbs.hpp	/^    int stasticsFiles(const std::string&, bool);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(const std::string&, bool)
+stasticsFiles	backup/NaiveBayesGibbs.cpp	/^int NaiveBayesGibbs::stasticsFiles(const std::string& dir, bool isTrainDir)$/;"	f	class:NaiveBayesGibbs	signature:(const std::string& dir, bool isTrainDir)
+stasticsFiles	backup/NaiveBayesGibbs.hpp	/^    int stasticsFiles(const std::string&, bool);$/;"	p	class:NaiveBayesGibbs	access:private	signature:(const std::string&, bool)
+stasticsWords	NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::stasticsWords()$/;"	f	class:NaiveBayesGibbs	signature:()
+stasticsWords	NaiveBayesGibbs.hpp	/^    void stasticsWords();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+supervise_	backup/NaiveBayesGibbs.hpp	/^    const bool supervise_;$/;"	m	class:NaiveBayesGibbs	access:private
+testAns_	NaiveBayesGibbs.hpp	/^    std::vector<int> testAns_;\/\/保存文档标签$/;"	m	class:NaiveBayesGibbs	access:private
+testAns_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> testAns_;\/\/保存文档标签$/;"	m	class:NaiveBayesGibbs	access:private
+testFiles_	NaiveBayesGibbs.hpp	/^    std::vector<std::string> testFiles_;\/\/所有文件$/;"	m	class:NaiveBayesGibbs	access:private
+testFiles_	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::string> testFiles_;\/\/所有文件$/;"	m	class:NaiveBayesGibbs	access:private
+testWords_	NaiveBayesGibbs.hpp	/^    std::vector<std::vector<std::string> > testWords_;\/\/第一个维度是文档，第二个维度是文档中的词$/;"	m	class:NaiveBayesGibbs	access:private
+testWords_	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::vector<std::string> > testWords_;\/\/第一个维度是文档，第二个维度是文档中的词$/;"	m	class:NaiveBayesGibbs	access:private
+thetaCur_	NaiveBayesGibbs.hpp	/^    HashMap thetaCur_;\/\/词服从的分布$/;"	m	class:NaiveBayesGibbs	access:private
+thetaCur_	backup/NaiveBayesGibbs.hpp	/^    HashMap thetaCur_;\/\/词服从的分布$/;"	m	class:NaiveBayesGibbs	access:private
+thetaHistory_	NaiveBayesGibbs.hpp	/^    HashMap thetaHistory_;\/\/历史$/;"	m	class:NaiveBayesGibbs	access:private
+thetaHistory_	backup/NaiveBayesGibbs.hpp	/^    HashMap thetaHistory_;\/\/历史$/;"	m	class:NaiveBayesGibbs	access:private
+theta_	NaiveBayesModel.hpp	/^    HashMap theta_;$/;"	m	class:NaiveBayesModel	access:private
+train	NaiveBayesGibbs.cpp	/^NaiveBayesModel NaiveBayesGibbs::train(int numIter)$/;"	f	class:NaiveBayesGibbs	signature:(int numIter)
+train	NaiveBayesGibbs.hpp	/^    NaiveBayesModel train(int iter=1000);$/;"	p	class:NaiveBayesGibbs	access:public	signature:(int iter=1000)
+train	backup/NaiveBayesGibbs.cpp	/^NaiveBayesModel NaiveBayesGibbs::train(int numIter)$/;"	f	class:NaiveBayesGibbs	signature:(int numIter)
+train	backup/NaiveBayesGibbs.hpp	/^    NaiveBayesModel train(int);$/;"	p	class:NaiveBayesGibbs	access:public	signature:(int)
+trainAns_	NaiveBayesGibbs.hpp	/^    std::vector<int> trainAns_;\/\/保存文档标签$/;"	m	class:NaiveBayesGibbs	access:private
+trainAns_	backup/NaiveBayesGibbs.hpp	/^    std::vector<int> trainAns_;\/\/保存文档标签$/;"	m	class:NaiveBayesGibbs	access:private
+trainFiles_	NaiveBayesGibbs.hpp	/^    std::vector<std::string> trainFiles_;\/\/所有文件$/;"	m	class:NaiveBayesGibbs	access:private
+trainFiles_	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::string> trainFiles_;\/\/所有文件$/;"	m	class:NaiveBayesGibbs	access:private
+trainWords_	NaiveBayesGibbs.hpp	/^    std::vector<std::vector<std::string> > trainWords_;\/\/第一个维度是文档，第二个维度是文档中的词$/;"	m	class:NaiveBayesGibbs	access:private
+trainWords_	backup/NaiveBayesGibbs.hpp	/^    std::vector<std::vector<std::string> > trainWords_;\/\/第一个维度是文档，第二个维度是文档中的词$/;"	m	class:NaiveBayesGibbs	access:private
+updateLabels	backup/NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::updateLabels()$/;"	f	class:NaiveBayesGibbs	signature:()
+updateLabels	backup/NaiveBayesGibbs.hpp	/^    void updateLabels();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+updateTheta	NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::updateTheta()$/;"	f	class:NaiveBayesGibbs	signature:()
+updateTheta	NaiveBayesGibbs.hpp	/^    void updateTheta();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+updateTheta	backup/NaiveBayesGibbs.cpp	/^void NaiveBayesGibbs::updateTheta()$/;"	f	class:NaiveBayesGibbs	signature:()
+updateTheta	backup/NaiveBayesGibbs.hpp	/^    void updateTheta();$/;"	p	class:NaiveBayesGibbs	access:private	signature:()
+wordCount_	NaiveBayesGibbs.hpp	/^    __gnu_cxx::hash_map<std::string, std::vector<int>, hash_str, eqstr> wordCount_;\/\/字-》每个类别下当前字的个数$/;"	m	class:NaiveBayesGibbs	access:private
+wordCount_	backup/NaiveBayesGibbs.hpp	/^    __gnu_cxx::hash_map<std::string, std::vector<int>, hash_str, eqstr> wordCount_;\/\/字-》每个类别下当前字的个数$/;"	m	class:NaiveBayesGibbs	access:private
